@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#app {
+  padding: 10px;
+}
+#folder-view {
+  border: 1px solid #ddd;
+  padding: 10px;
+  max-height: 400px;
+  overflow-y: auto;
+}
